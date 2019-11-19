@@ -1,4 +1,6 @@
 hello world!
 Hello from branch
 
-A
+<<<<<<< HEAD
+asdf;lkjads
+>>>>>>> newbranch
